@@ -1,0 +1,45 @@
+.bar{
+    height: 60px;
+    
+    line-height: 1.15;
+    font-weight: bolder;
+    border: white;
+    display: flex;
+     margin-left: 32.5%; 
+     margin-top: 35px;
+     
+}
+.btn btn-primary btn-lg{
+    border: black 1px solid;
+    margin-left: 44%;
+    display: flex;
+    padding-bottom: 30px;
+}
+.st{
+    
+    background-image: url("Instagram.jpg");
+    
+    
+    
+    
+}
+.bar input[type=text]{
+    padding-left: 10px;
+    font-size: larger;
+}
+.bar input[type=text]::after{
+     border-color: blue; 
+}
+
+/* .bar:hover{
+   background-color: blue;
+} */
+
+h1{
+    margin-top: 35px;
+    padding-top: 50px;
+}
+h6{
+    text-align: center;
+    color: white;
+}
